@@ -7,6 +7,10 @@ last_name = 'frost'
 
 fullname = first_name +' '+ last_name
 print('Hello '+ fullname)
+print('Hello', fullname)
+
+# find the length of your string
+print(len(fullname))
 
 # print the datatype of the variable
 print(type(fullname))
@@ -20,6 +24,8 @@ age += 1
 # need to type cast to display integer with string
 print('Your age is: '+str(age))
 
+print('Your age ', age)
+
 # Float DataType (Decimal)
 height = 193.4
 
@@ -30,3 +36,5 @@ print(type(height))
 human = True
 print(type(human))
 print('Are you a human: '+str(human))
+
+print(fullname,age,height,human)
