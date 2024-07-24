@@ -38,3 +38,8 @@ print(type(human))
 print('Are you a human: '+str(human))
 
 print(fullname,age,height,human)
+
+# multiple assignment = allow us to assign multipe variable at the same time in one line
+luffy = zoro = nami = sanji = ussopp = 18
+print(luffy,zoro,nami,sanji)
+
