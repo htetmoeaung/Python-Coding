@@ -6,3 +6,5 @@ def hello(first_name, last_name, age):
 
 
 hello('htet', 'moe', 20)
+
+print()
