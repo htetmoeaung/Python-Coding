@@ -1,7 +1,6 @@
 # Exception = events detected during  execution
 #             that interrupt the flow of a program
 
-
 try:
     num1 = int(input('Enter a number to divide: '))
     num2 = int(input('Enter a number to dicide by: '))
