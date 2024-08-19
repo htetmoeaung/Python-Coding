@@ -1,3 +1,5 @@
+
+
 try:
     with open('C:\\Users\\user\\Desktop\\Resources\\test.txt') as file:
         print(file.read())
