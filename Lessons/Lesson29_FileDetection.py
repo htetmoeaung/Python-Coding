@@ -1,4 +1,4 @@
-
+# 19
 import os
 
 path = 'C:\\Users\\user\\Desktop\\Resources\\test.txt'
