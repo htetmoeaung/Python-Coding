@@ -54,6 +54,6 @@ while True:
                 print('Player: ', player)
                 print('Tie')
     playAgain = input('Play again? (yes/no): ').lower()
-    if playAgain.__contains__('n'):
+    if playAgain == 'no':
         break
 print('Thank you for playing my game')
