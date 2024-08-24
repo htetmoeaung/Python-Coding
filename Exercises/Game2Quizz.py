@@ -1,3 +1,5 @@
+from PIL import Image
+
 def newGame():
     guesses = []
     correct_guess = 0
@@ -45,7 +47,13 @@ def play_again():
     if user == 'yes':
         return True
     else:
-        return False
+       # show a image to a user
+
+       # from PIL import Image
+       # img = Image.open('C:\\Users\\user\\Pictures\\20240728_080400.jpg')
+       # img.show()
+
+       return False
 
 
 questions = {
