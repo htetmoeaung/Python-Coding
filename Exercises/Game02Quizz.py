@@ -49,8 +49,8 @@ def play_again():
     else:
        # show a image to a user
        # from PIL import Image
-       # img = Image.open('C:\\Users\\user\\Pictures\\20240728_080400.jpg')
-       # img.show()
+       img = Image.open('C:\\Users\\user\\Pictures\\20240728_080400.jpg')
+       img.show()
 
        return False
 
