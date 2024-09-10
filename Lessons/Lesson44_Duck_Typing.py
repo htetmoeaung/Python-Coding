@@ -25,5 +25,3 @@ chicken = Chicken()
 person = Person()
 
 person.catch(chicken)
-
-
