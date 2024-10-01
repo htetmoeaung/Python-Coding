@@ -3,7 +3,7 @@
 #                   (think of it as a shortcut)
 #                   (useful if needed for a short period of time, throw away)
 #
-# lambda paremeter:expression
+# lambda parameter:expression
 
 double = lambda x: x * 2
 multiply = lambda x,y: x * y
